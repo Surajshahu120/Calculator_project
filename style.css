@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Montserrat:wght@700&family=Nunito:wght@600&family=Roboto&family=Rubik:wght@500&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+   
+}
+.button{
+    padding: 20px;
+    width: 52px;
+    max-width: 0px 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+}
+.row{
+    margin: 8px 0px;
+}
+.container1{
+    border: 2px solid grey;
+    margin: 0px 594px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.row input{
+    width: 221px;
+    font-size: 17px;
+    margin: 0px;
+    padding: 10px 0px;
+    border-radius: 5px;
+    text-align: center;
+    border: 2px solid black;
+   
+}
